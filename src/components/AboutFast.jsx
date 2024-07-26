@@ -3,17 +3,17 @@ import React from 'react'
 export const AboutFast = () => {
     const cards = [
         {
-          image: 'https://bulma.io/images/placeholders/128x128.png', // Reemplaza con tus imágenes
+          image: '../assets/avatar.jpg', // Reemplaza con tus imágenes
           name: 'Juan Pérez',
           text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec iaculis mauris.',
         },
         {
-          image: 'https://bulma.io/images/placeholders/128x128.png',
+          image: '../assets/avatar.jpg',
           name: 'María López',
           text: 'Sed eget turpis a pede tempor malesuada. Vivamus euismod mauris eu elit.',
         },
         {
-          image: 'https://bulma.io/images/placeholders/128x128.png',
+          image: '../assets/avatar.jpg',
           name: 'Carlos Gómez',
           text: 'In hac habitasse platea dictumst. Fusce a quam. Etiam ut purus mattis mauris sodales aliquam.',
         },
